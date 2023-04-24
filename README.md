@@ -4,7 +4,8 @@ Este projeto é um exemplo de uma aplicação React criada com Vite. Ele foi cri
 Requisitos
 
 Para executar este projeto, é necessário ter instalado o Node.js e o gerenciador de pacotes npm.
-Instalação
+
+# Instalação
 
 Para instalar e configurar o projeto, siga os seguintes passos:
 
