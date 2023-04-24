@@ -1,35 +1,29 @@
-# Projeto React com Vite
+# React project with Vite
 
-Este projeto é um exemplo de uma aplicação React criada com Vite. Ele foi criado para demonstrar a utilização da biblioteca React com a ferramenta de build Vite.
-Requisitos
+This project is an example of a React application created with Vite. It was created to demonstrate the use of the React library with the Vite build tool.
+Requirements
 
-Para executar este projeto, é necessário ter instalado o Node.js e o gerenciador de pacotes npm.
+To run this project, you need to have installed Node.js and the npm package manager.
 
-# Instalação
+# Installation
 
-Para instalar e configurar o projeto, siga os seguintes passos:
+To install and configure the project, follow these steps:
 
-    Clone o repositório:
-
-bash
+    Clone the repository:
 
 git clone https://github.com/seu-usuario/nome-do-repositorio.git
 
-    Instale as dependências:
+    Install the dependencies:
 
 npm install
 
-    Inicie o servidor de desenvolvimento:
+    Start the development server:
 
-arduino
+        npm run dev
 
-npm run dev
+# project structure
 
-Estrutura do projeto
-
-A estrutura do projeto é a seguinte:
-
-lua
+The structure of the project is as follows:
 
 src/
 |-- App.jsx
@@ -40,22 +34,21 @@ src/
     `-- globals.css
 index.html
 
-    App.jsx: arquivo que contém o componente principal da aplicação.
-    Components/: diretório que contém os componentes da aplicação.
-    styles/: diretório que contém os arquivos CSS da aplicação.
-    index.html: arquivo HTML que contém o ponto de entrada da aplicação.
+    App.jsx: file that contains the application's main component.
+    Components/: directory containing the application's components.
+    styles/: directory containing the application's CSS files.
+    index.html: HTML file that contains the application's entry point.
 
-Utilização
+# Use
 
-Para utilizar o projeto, basta abrir o navegador e acessar o endereço http://localhost:3000. A aplicação irá exibir um cartão com informações sobre um desenvolvedor.
+To use the project, just open the browser and access the address http://localhost:3000. The application will display a card with information about a developer.
 
-O código do componente Card pode ser reutilizado em outras partes da aplicação. Basta importá-lo e passar as propriedades necessárias.
-Contribuição
+Card component code can be reused in other parts of the application. Just import it and pass the necessary properties.
 
-Contribuições são sempre bem-vindas! Se você encontrar algum problema ou tiver uma ideia para melhorar o projeto, sinta-se à vontade para abrir uma issue ou submeter um pull request.
-Autoria
+# Contribution
 
-Este projeto foi criado por seu nome.
-Licença
+Contributions are always welcome! If you find any problems or have an idea to improve the project, feel free to open an issue or submit a pull request.
 
-Este projeto está licenciado sob a licença MIT.
+# Authorship
+
+This project was created by Bruno Freire.
