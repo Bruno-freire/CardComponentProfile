@@ -9,17 +9,17 @@ To run this project, you need to have installed Node.js and the npm package mana
 
 To install and configure the project, follow these steps:
 
-    Clone the repository:
+Clone the repository:
 
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+    git clone https://github.com/seu-usuario/nome-do-repositorio.git
 
-    Install the dependencies:
+Install the dependencies:
 
-npm install
+    npm install
 
-    Start the development server:
+Start the development server:
 
-        npm run dev
+    npm run dev
 
 # project structure
 
